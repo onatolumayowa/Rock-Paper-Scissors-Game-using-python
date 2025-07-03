@@ -5,7 +5,9 @@
 - [Project Overview](#project-overview)
 - [Steps](#steps)
 - [First Attempt](#first-attempt)
-- [Refactoring Modularizing code](#refactoring-modularization-code)
+- [Refactoring](#refactoring)
+- [Refactoring DRY Principle](#refactoring-dry-principle)
+- [Conclusion](#conclusion)
 
 
 ### Project Overview
@@ -55,7 +57,7 @@ while True:
         break
 ```
 
-### Refactoring Modularizing code
+### Refactoring
 
 Refactoring simply means changing the structure of the code without it's functionality.
 
@@ -114,7 +116,7 @@ Here i have broken down the code into smaller reusable parts called funtion.
 
 Then we call the function play_game().
 
-### Refactoring: DRY Principle
+### Refactoring DRY Principle
 
 We have another opportunity for improving the code. In the previous code, I have multiple places where i have defined our choices and this is bad because of 2 reasons:
 
