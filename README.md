@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Tools](#tools)
 - [Steps](#steps)
 - [First Attempt](#first-attempt)
 - [Refactoring](#refactoring)
@@ -13,6 +14,10 @@
 ### Project Overview
 
 This project shows how rock, paper, scissors game can be created in python and how it can also be refactorized.
+
+### Tools
+
+- Visual Studio Code
 
 
 ### Steps
