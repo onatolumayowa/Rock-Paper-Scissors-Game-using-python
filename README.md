@@ -1,5 +1,12 @@
 # Rock-Paper-Scissors
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Steps](#steps)
+- [First Attempt](#first-attempt)
+- [Refactoring Modularizing code](#refactoring-modularization-code)
+
 
 ### Project Overview
 
@@ -48,7 +55,7 @@ while True:
         break
 ```
 
-### Refactoring: Modularizing code
+### Refactoring Modularizing code
 
 Refactoring simply means changing the structure of the code without it's functionality.
 
@@ -135,7 +142,7 @@ PAPER = 'p'
 
 Now anywhere we have r, p, s we replace them with our constant. So if you have to change the choices in future, there is only a single place you have to modify.
 
-click [on here]( to see the full code after refactoring using the DRY principle
+click [on here](https://github.com/onatolumayowa/Rock-Paper-Scissors-Game-using-python/blob/main/DRY%20(code).py) to see the full and final code after refactoring using the DRY principle
 
 
 ### Conclusion
