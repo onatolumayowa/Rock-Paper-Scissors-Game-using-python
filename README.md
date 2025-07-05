@@ -13,7 +13,7 @@
 
 ### Project Overview
 
-This project shows how rock, paper, scissors game can be created in python and how it can also be refactorized.
+This project shows how rock, paper, scissors game can be created in python and how it can also be broken into smaller reusable parts.
 
 ### Tools
 
